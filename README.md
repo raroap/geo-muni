@@ -8,7 +8,12 @@
 [![Python 3.11](https://img.shields.io/badge/python-3.11+-informational)](#)
 
 ## 🎯 Problema
-Empresas con activos en campo (refrigeradores, antenas, kioscos, equipos) necesitan **ubicar** cada visita/reporte en su **municipio** para reportería, ruteo, métricas y compliance. Hacerlo manualmente es lento y propenso a errores.
+Las empresas de Distribución recopilan grandes volúmenes de datos con coordenadas GPS (ventas, servicios, clientes). sin una asignación territorial automática, resulta difícil analizar indicadores por municipio o región. 
+
+Este proyecto ofrece una solución práctica de geocodificación inteligente, permitiendo vincular cada punto georreferenciado con su municipio correspondiente. De esta forma, las empresas pueden integrar fácilmente la información en dashboards de Business Intelligence, optimizar rutas, evaluar cobertura y mejorar la toma de decisiones basadas en datos.
+
+
+
 
 ## 💡 Solución
 `geo-muni` convierte tus **puntos** (`lon`, `lat`) en **municipios** con una sola instrucción:
