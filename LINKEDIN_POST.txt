@@ -1,0 +1,8 @@
+🎯 Nuevo proyecto en mi portafolio: geo-muni (Python + GeoPandas)
+
+Automatiza la asignación de **municipios** a puntos con **lat/lon** mediante spatial join. Ideal para empresas con activos en campo (equipos fríos, kioscos, antenas) que necesitan KPIs por territorio, ruteo y SLA.
+
+Repo: https://github.com/raroap/geo-muni
+Stack: Python · GeoPandas · Shapely · Typer · Pytest · GitHub Actions
+
+¿Te interesa aplicarlo en tu empresa? Te leo 👇

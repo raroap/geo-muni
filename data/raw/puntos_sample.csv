@@ -1,0 +1,5 @@
+id,lon,lat,nota
+1,-69.90,18.50,Punto dentro de Santo Domingo (sintético)
+2,-70.60,19.60,Punto dentro de Santiago (sintético)
+3,-71.00,18.20,Fuera de polígonos (sintético)
+4,-69.80,18.60,Otro dentro de Santo Domingo (sintético)

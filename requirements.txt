@@ -1,0 +1,8 @@
+pandas>=2.2
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+rtree>=1.2
+typer>=0.12
+rich>=13.7
+pytest>=8.0

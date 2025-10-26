@@ -1,0 +1,15 @@
+name: geo-muni
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - shapely
+  - pyproj
+  - rtree
+  - pandas
+  - pip
+  - pip:
+      - typer
+      - rich
+      - pytest
